@@ -1,7 +1,5 @@
 # Ethical Pace
 
-# README
-
 ## Initial Situation
 The idea for this project arose from a desire to create a platform where individuals could express their political beliefs while engaging in physical activity. With an increasing interest in combining activism with everyday actions, there's a market for politically-themed apparel that aligns with people's values.
 
